@@ -13,3 +13,6 @@ E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\obj\Debug\net6.0\refin
 E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\obj\Debug\net6.0\AM.UI.Console.pdb
 E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\obj\Debug\net6.0\AM.UI.Console.genruntimeconfig.cache
 E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\obj\Debug\net6.0\ref\AM.UI.Console.dll
+E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\bin\Debug\net6.0\AM.ApplicationCore.dll
+E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\bin\Debug\net6.0\AM.ApplicationCore.pdb
+E:\Dev\Projects\Net\Class\AirportManagement\AM.UI.Console\obj\Debug\net6.0\AM.UI.Console.csproj.CopyComplete
