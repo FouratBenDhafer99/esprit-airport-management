@@ -17,9 +17,14 @@ namespace  AM.UI.Console{
 
             ServiceFlight serviceFlight = new ServiceFlight();
 
-            List<Flight> flights = serviceFlight.Flights;
+            serviceFlight.Flights= TestData.Flights;
+
+            List<Flight> flights = TestData.Flights;
             System.Console.WriteLine(flights.Count);
 
+            System.Console.WriteLine(serviceFlight.DurationAverage("Paris"));
+            //System.Console.WriteLine();
+            //serviceFlight.DestinationGroupedFlights();
 
         }
     } 
